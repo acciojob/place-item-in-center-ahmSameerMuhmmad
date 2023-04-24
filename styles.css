@@ -2,8 +2,10 @@
 /* Your CSS Code here. */
 .holder{
         background-color: bisque;
-        text-align: center;
         height: 400px;
-        padding-top: 200px;
+	    display: flex;
+	   justify-content: center;
+	  align-items: center;
+        
         
      }
